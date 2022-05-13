@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = markpheus@gmail.com
+	name = Mark Ruiz
